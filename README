@@ -1,0 +1,3 @@
+1.) npm install es6-module-transpiler
+2.) ./node_modules/es6-module-transpiler/bin/compile-modules js --to transpiled --infer-name
+3.) python -m SimpleHTTPServer 8000
